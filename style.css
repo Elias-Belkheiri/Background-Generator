@@ -1,0 +1,16 @@
+body {
+  background-image: linear-gradient(to right, #ff0000, #2596be);
+}
+
+h1 {
+  text-align: center;
+  color: lightgrey;
+  font-size: 45px;
+  letter-spacing: 35px;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
